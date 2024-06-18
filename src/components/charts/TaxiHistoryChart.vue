@@ -10,7 +10,7 @@ export default {
     data() {
         return {
             chartOptions: {
-                title: { text: null},
+                title: { text: null },
                 credits: {enabled: false },
                 xAxis: {
                     categories: times,
