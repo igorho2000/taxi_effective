@@ -112,7 +112,7 @@ export const en = {
   linkTo: "Go to external links",
   scrollama1: {
     title: "Number of Registered Taxi Across the Six Special Municipalities",
-    p: "As of the end of 2019, there are a total of 80,709 taxis in Taiwan. Among these, 31,554 are registered in Taipei City, while 22,503 are registered in New Taipei City. The two municipalities account for 66.98% of total taxis in the six special municipalities.",
+    p: "As of the end of 2019, there are 80,709 taxis in the special municipalities. Among these, 31,554 are registered in Taipei City, while 22,503 are registered in New Taipei City. The two municipalities account for 66.98% of total taxis in the six special municipalities.",
     source: "Source: Department of Statistics, MOTC",
   },
   scrollama2: {
