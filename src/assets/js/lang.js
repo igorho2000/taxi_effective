@@ -9,8 +9,8 @@ export const zh = {
   suggest: "建議使用電腦來取得理想的地圖互動效果",
   linkTo: "前往外部連結",
   scrollama1: {
-    title: "各縣市計程車營業登記數量",
-    p: "據2019年底統計，台灣共有計程車91,898輛，其中臺北市31,554輛，新北市22,503輛，佔全國的58.8%。",
+    title: "六都計程車營業登記數量",
+    p: "據2019年底統計，六都共有計程車80,709輛，其中臺北市31,554輛，新北市22,503輛，佔六都的66.98%。",
     source: "資料來源:交通部統計處",
   },
   scrollama2: {
@@ -111,8 +111,8 @@ export const en = {
   suggest: "Recommend to use desktop browser for better viewing experience.",
   linkTo: "Go to external links",
   scrollama1: {
-    title: "Number of Registered Taxi Across the Nation",
-    p: "As of the end of 2019, there are a total of 91,898 taxis in Taiwan. Among these, 31,554 are registered in Taipei City, while 22,503 are registered in New Taipei City. The two municipalities account for 58.8% of total taxis in Taiwan.",
+    title: "Number of Registered Taxi Across the Six Special Municipalities",
+    p: "As of the end of 2019, there are a total of 80,709 taxis in Taiwan. Among these, 31,554 are registered in Taipei City, while 22,503 are registered in New Taipei City. The two municipalities account for 66.98% of total taxis in the six special municipalities.",
     source: "Source: Department of Statistics, MOTC",
   },
   scrollama2: {

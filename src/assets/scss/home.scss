@@ -203,10 +203,10 @@
 			height: 38rem;
 		}
 		&[data-step-no="2"]{
-			height: 65rem;
+			height: 80rem;
 		}
 		&[data-step-no="3"]{
-			height: 80rem;
+			height: 97rem;
 			.columnBox{
 				margin-top: 0;
 				margin-bottom: 0;
@@ -242,15 +242,15 @@
 			}
 		}
 		&[data-step-no="5"]{
-			height: calc(#{$mapGifWidth} + 38rem);
+			height: calc(#{$mapGifWidth} + 46rem);
 			.contextbox{
-				height: 38rem;
+				height: 46rem;
 			}
 		}
 		&[data-step-no="6"]{
-			height: calc(#{$mapGifWidth} + 30rem);
+			height: calc(#{$mapGifWidth} + 38rem);
 			.contextbox{
-				height: 30rem;
+				height: 38rem;
 			}
 		}
 		&[data-step-no="7"]{
